@@ -1,16 +1,8 @@
 ## Hi there 👋
 
-My name is Iván.
-- Studying: Computer Science
-- Self learning: Game Design and Video Game Development.
+### :rocket:  About Me
+Im Iván Díaz, I am very passionate about video game development and design. I am currently studying:
+- Computer Science at Tecnológico de Monterrey.
+- Game Design: Art and Concepts at Calarts (Coursera Specialization Course).
 
-### My GitHub Stats:
-![Iván's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanDLar&show_icons=true&theme=dracula)
-
-<div align="center">
-
-![](https://github.com/IvanDLar/mystats/blob/master/generated/overview.svg)
-![](https://github.com/IvanDLar/mystats/blob/master/generated/languages.svg)
-
-
-</div>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanDLar&show_icons=true&theme=dracula)
