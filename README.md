@@ -5,7 +5,7 @@ My name is Iván.
 - Self learning: Game Design and Video Game Development.
 
 ### My GitHub Stats:
-[![Iván's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanDLar)](https://github.com/anuraghazra/github-readme-stats)
+![Iván's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanDLar&show_icons=true&theme=dracula)
 
 <div align="center">
 
