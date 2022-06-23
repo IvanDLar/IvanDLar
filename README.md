@@ -5,6 +5,4 @@ Im Iván Díaz, I am very passionate about video game development and design. I 
 - Computer Science at Tecnológico de Monterrey.
 - Game Design: Art and Concepts at Calarts (Coursera Specialization Course).
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanDLar&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDLar&layout=compact&theme=dracula&langs_count=9)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanDLar&show_icons=true&theme=tokyonight) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDLar&theme=tokyonight&langs_count=10&layout=compact&hide=ASP.net,ShaderLab)
