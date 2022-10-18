@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### :rocket:  About Me
-Im Iván Díaz, I am very passionate about web development and UX-UI design. I am currently studying:
+I'm Iván Díaz, I am very passionate about web development and UX-UI design. I am currently studying:
 - Computer Science at Tecnológico de Monterrey.
 - Front end development (Meta profesional certificate at Coursera.)
 
