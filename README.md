@@ -8,4 +8,6 @@ I'm Iván Díaz, I am very passionate about web development and A.I.
 - Specialiced Program in Machine Learning at Université Laval.
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanDLar&show_icons=true&theme=tokyonight) &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDLar&theme=tokyonight&langs_count=10&layout=compact&hide=ASP.net,ShaderLab)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanDLar&show_icons=true&theme=tokyonight) &nbsp; &nbsp; &nbsp; [![Ivan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IvanDLar)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://wakatime.com/@bedef842-33e4-4c64-8c2f-72255e014c57"><img src="https://wakatime.com/badge/user/bedef842-33e4-4c64-8c2f-72255e014c57.svg" alt="Total time coded since May 26 2023" /></a>
