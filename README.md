@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### :rocket:  About Me
-#### Jr Software Developer at Nimblr 
+#### Software Developer Trainee at Nimblr 
 I'm Iván Díaz, I am very passionate about web development and A.I.
 - Currently studying Computer Science at Tecnológico de Monterrey.
 - Working as Jr.Software Developer at Nimblr.ai.
