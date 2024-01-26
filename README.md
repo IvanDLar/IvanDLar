@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### :rocket:  About Me
-#### Jr. Software Developer at Nimblr 
+#### Testing Engineer Intern @ Murex
 I'm Iván Díaz, I am passionate about web development and AI.
 - Currently studying Computer Science at Tecnológico de Monterrey.
 - Specialized Program in Machine Learning at Université Laval.
